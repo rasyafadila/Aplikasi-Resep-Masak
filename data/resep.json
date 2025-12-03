@@ -14,7 +14,9 @@
       "Masukkan telur, orak-arik.",
       "Masukkan nasi, aduk rata.",
       "Tambahkan kecap dan garam, sajikan."
-    ]
+    ],
+    "favorit": true,
+    "gambar": ""
   },
   {
     "id": 2,
@@ -30,6 +32,183 @@
       "Masukkan jagung dan bumbu instan.",
       "Masukkan sayuran lain, masak hingga matang.",
       "Koreksi rasa."
-    ]
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 3,
+    "nama": "Ayam Teriyaki",
+    "bahan": [
+      "250 gram dada ayam fillet",
+      "2 siung bawang putih",
+      "2 sdm kecap asin",
+      "1 sdm saus teriyaki",
+      "1 sdm madu",
+      "1 sdt minyak wijen"
+    ],
+    "langkah": [
+      "Potong ayam menjadi dadu.",
+      "Tumis bawang putih hingga harum.",
+      "Masukkan ayam, masak hingga berubah warna.",
+      "Tambahkan kecap asin, saus teriyaki, madu, dan minyak wijen.",
+      "Masak hingga bumbu meresap."
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 4,
+    "nama": "Tumis Kangkung",
+    "bahan": [
+      "1 ikat kangkung",
+      "3 siung bawang putih",
+      "2 siung bawang merah",
+      "1 buah cabai merah besar",
+      "Garam dan kaldu bubuk"
+    ],
+    "langkah": [
+      "Tumis bawang sampai harum.",
+      "Masukkan cabai dan kangkung.",
+      "Tambahkan sedikit air.",
+      "Bumbui dengan garam dan kaldu.",
+      "Masak hingga kangkung layu."
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 5,
+    "nama": "Sate Taichan",
+    "bahan": [
+      "250 gram dada ayam",
+      "2 siung bawang putih",
+      "1 sdt garam",
+      "1 sdt jeruk nipis",
+      "Sambal taichan"
+    ],
+    "langkah": [
+      "Potong ayam kecil-kecil dan tusuk pada tusukan sate.",
+      "Lumuri dengan bawang putih, garam, dan jeruk nipis.",
+      "Bakar hingga matang.",
+      "Sajikan dengan sambal taichan."
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 6,
+    "nama": "Soto Ayam",
+    "bahan": [
+      "Ayam",
+      "Bihun",
+      "Kol",
+      "Daun bawang",
+      "Bawang goreng",
+      "Bumbu kuning"
+    ],
+    "langkah": [
+      "Rebus ayam hingga empuk lalu suwir.",
+      "Tumis bumbu dan masukkan ke kuah.",
+      "Masukkan bihun dan sayuran.",
+      "Sajikan dengan bawang goreng."
+    ],
+    "favorit": true,
+    "gambar": ""
+  },
+  {
+    "id": 7,
+    "nama": "Rendang Daging",
+    "bahan": [
+      "Daging sapi",
+      "Santan",
+      "Cabai",
+      "Bawang",
+      "Lengkuas",
+      "Serai"
+    ],
+    "langkah": [
+      "Haluskan bumbu lalu tumis.",
+      "Masak santan dan masukkan daging.",
+      "Ungkep hingga kering dan berwarna gelap."
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 8,
+    "nama": "Udang Saus Padang",
+    "bahan": [
+      "Udang",
+      "Bawang",
+      "Cabai",
+      "Saus tomat",
+      "Saus tiram"
+    ],
+    "langkah": [
+      "Tumis bumbu.",
+      "Masukkan udang.",
+      "Tambahkan saus dan masak hingga mengental."
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 9,
+    "nama": "Pepes Ikan",
+    "bahan": [
+      "Ikan",
+      "Daun kemangi",
+      "Cabai",
+      "Bawang",
+      "Daun pisang"
+    ],
+    "langkah": [
+      "Lumuri ikan dengan bumbu.",
+      "Bungkus dengan daun pisang.",
+      "Kukus lalu bakar sebentar."
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 10,
+    "nama": "Bakso Sapi",
+    "bahan": [
+      "Daging sapi giling",
+      "Tepung tapioka",
+      "Bawang putih",
+      "Kaldu bubuk"
+    ],
+    "langkah": [
+      "Campur semua bahan dan bentuk bulat.",
+      "Rebus hingga mengapung."
+    ],
+    "favorit": false,
+    "gambar": ""
+  },
+  {
+    "id": 11,
+    "nama": "aaa",
+    "gambar": "aaaa",
+    "bahan": [
+      "aaa"
+    ],
+    "langkah": [
+      "aaaa"
+    ],
+    "favorit": false
+  },
+  {
+    "id": 12,
+    "nama": "aa",
+    "gambar": "a",
+    "bahan": [
+      "a"
+    ],
+    "langkah": [
+      "a"
+    ],
+    "favorit": false
   }
 ]

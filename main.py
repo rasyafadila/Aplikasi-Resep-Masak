@@ -1,10 +1,14 @@
-# main.py
+# main.py (di dalam folder CookEasy, BUKAN di dalam modules!)
 
-import customtkinter as ctk
-# Import kelas utama aplikasi dari modul app_ui
+import os
+import sys
+
+# Tambahkan folder utama ke sys.path agar bisa import modules
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+# Sekarang baru import
 from modules.app_ui import ResepApp
-
-# --- KONFIGURASI DAN JALANKAN APLIKASI ---
+import customtkinter as ctk
 
 ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("blue")
